@@ -9,7 +9,7 @@
 
 ## Delighted to hear from you
 
-[![Portfolio](./img/globe-light.svg)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
+[![Portfolio](https://photos.google.com/search/_tra_/photo/AF1QipPFno6k0qMPrTrUar3xQwgTAA8weDTCTaRJH_px)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
 [![Portfolio](./img/globe-dark.svg)](https://mrajkumar-portfolio.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/RajkumarM688#gh-light-mode-only)
