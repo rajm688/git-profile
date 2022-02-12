@@ -9,14 +9,14 @@
 
 ## Delighted to hear from you
 
-![Portfolio](./img/globe-light.svg)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
-![Portfolio](./img/globe-dark.svg)](https://mrajkumar-portfolio.netlify.app/#gh-dark-mode-only)
+[![Portfolio](./img/globe-light.svg)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
+[![Portfolio](./img/globe-dark.svg)](https://mrajkumar-portfolio.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/twitter-light.svg)](https://twitter.com/RajkumarM688#gh-light-mode-only)
-![website](./img/twitter-dark.svg)](https://twitter.com/RajkumarM688#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/RajkumarM688#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/RajkumarM688#gh-dark-mode-only)
 &nbsp;&nbsp;
-![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajm688#gh-light-mode-only)
-![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajm688#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajm688#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajm688#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## Languages and Tools:
@@ -35,4 +35,4 @@
 ## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajm688&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
