@@ -7,19 +7,20 @@
 - Bachelor of Engineering in Electronics and Communication
 - Currently working on my projects
 
-### Delighted to hear from you
+## Delighted to hear from you
 
-[![Portfolio](./img/globe-light.svg)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
-[![Portfolio](./img/globe-dark.svg)](https://mrajkumar-portfolio.netlify.app/#gh-dark-mode-only)
+![Portfolio](./img/globe-light.svg)](https://mrajkumar-portfolio.netlify.app/#gh-light-mode-only)
+![Portfolio](./img/globe-dark.svg)](https://mrajkumar-portfolio.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/RajkumarM688#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/RajkumarM688#gh-dark-mode-only)
+![website](./img/twitter-light.svg)](https://twitter.com/RajkumarM688#gh-light-mode-only)
+![website](./img/twitter-dark.svg)](https://twitter.com/RajkumarM688#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajm688#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajm688#gh-dark-mode-only)
+![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajm688#gh-light-mode-only)
+![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajm688#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+## Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -32,5 +33,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 ## My Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajm688&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
