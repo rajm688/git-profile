@@ -19,7 +19,10 @@
 
 ## My Stats
 
+###Contributions
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajm688&show_icons=true&theme=radical)
+
+###Languages ans Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
