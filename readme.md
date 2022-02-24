@@ -11,7 +11,7 @@
 
 ## Delighted to hear from you
 
-[![Portfolio](./img/web.png)](https://mrajkumar-portfolio.netlify.app)
+[![Portfolio](./img/web1.png)](https://mrajkumar-portfolio.netlify.app)
 &nbsp;&nbsp;
 [![website](./img/img2.png)](https://twitter.com/RajkumarM688)
 &nbsp;&nbsp;
