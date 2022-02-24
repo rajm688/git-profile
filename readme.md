@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://lh3.googleusercontent.com/TDjd0e9IOgwF0fmKKm8jZhXlM8sK_45xNF06lj_qzsARNuR1AdwClMHi7FvXLDBDXsXoIsgr3YKG5sykLwzm9xXYko91U7O9Wias-bGUDnFahmw41pmBiXFFb7TI2y1DD6-mUBaIZ_mfdbAcowZ0pkj6kGgqr2Pyxg81r5FdeyCgKQJcpAm3S7QG3H2AgrTWS670cX89z18Bd9Uy9O9p-9KwiHuDRxIRn1YwIqsntexE_jYbamnuAjkH-Ugb5dsj3AlPfr1Qx72MPcQvdJbNjgDQ2MJ8OleaaU4hDxJU2TE1abcSWXzf2oxpYPMcfnswzXV8OOlZPkyMPus64ZZaYOxJ7zFU1yfLkCT6hJYduEgMJil3MvC1jpSkXKogzqWR1nrkPOZOyxUz5Saw5pilDBQK5dl8Jt2sZXJqmhN9ASuglpoYlY9zK-KuzWcdAS7siCUXJxKblUBOatOuCU-VP6CDPOm90dUqaymkxn1-1iLNnv8V1CXoX54zQi0dzruk8TBR7Y2v-gNv7BzPpriFqqIs18-QP_Abug83IZqOX7jlYFBBwjLwIIaowsaVmQEXIsDj0L6IEssztELWF1ILjHkLSOHtCHav-4TiYbqYe7ntPeEZaCKJNj_bRvhqV8QUtna-MYIkbHgCr3yQBrUJT4vnWwSLWoA8nlgLFhcqhXiiqQ76Mq2oAO5H_2XKqAjPDP8dtAIG2G9GEDXsqTstExs=w1584-h396-no?authuser=0" alt="img"/>
+   <img src="./img/banner.gif" alt="img"/>
 </p>
 
 ## About
