@@ -5,7 +5,7 @@
 
 ## About
 
-- MERN Stack Developer from Tamil Nadu, India
+- MEVN Stack Developer from Tamil Nadu, India
 - Bachelor of Engineering in Electronics and Communication
 - Currently working on my projects
 
